@@ -46,7 +46,8 @@ README.md           → Project overview and documentation
 
 ## 📊 Dashboard Preview
 
-*Coming soon – will be added to the `images/` folder and embedded here.*
+![Dashboard](images/dashboard_preview.png)
+
 
 ---
 
