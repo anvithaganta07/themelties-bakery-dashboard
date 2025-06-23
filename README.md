@@ -38,7 +38,7 @@ This project is a passion + data story based on my own experience running a home
 ```
 📁 data/            → Raw data files (Excel)
 📁 notebooks/       → EDA notebooks
-📁 images/          → Dashboard screenshots (to be added)
+📁 images/          → Dashboard screenshots 
 README.md           → Project overview and documentation
 ```
 
@@ -52,4 +52,4 @@ README.md           → Project overview and documentation
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/anvithaganta)
+- [LinkedIn](https://www.linkedin.com/in/anvitha-ganta-51a3421a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzKelDkphTSKuV5Lb2xVSxg%3D%3D)
