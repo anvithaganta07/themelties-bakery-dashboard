@@ -46,7 +46,7 @@ README.md           → Project overview and documentation
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](https://github.com/anvithaganta07/themelties-bakery-dashboard/blob/main/dashboard_preview.png)
 
 
 ---
